@@ -16,6 +16,7 @@ class Mathematician {
     
     func multiplication(_ a: Int, _ b: Int) -> Int {
         return a * b;
+        
     }
     
 }
